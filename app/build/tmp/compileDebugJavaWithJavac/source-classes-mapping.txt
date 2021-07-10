@@ -1,0 +1,16 @@
+com/uas/alif/BuildConfig.java
+ com.uas.alif.BuildConfig
+com/uas/alif/activities/MainActivity.java
+ com.uas.alif.activities.MainActivity
+ com.uas.alif.activities.MainActivity$1
+ com.uas.alif.activities.MainActivity$10
+ com.uas.alif.activities.MainActivity$11
+ com.uas.alif.activities.MainActivity$12
+ com.uas.alif.activities.MainActivity$2
+ com.uas.alif.activities.MainActivity$3
+ com.uas.alif.activities.MainActivity$4
+ com.uas.alif.activities.MainActivity$5
+ com.uas.alif.activities.MainActivity$6
+ com.uas.alif.activities.MainActivity$7
+ com.uas.alif.activities.MainActivity$8
+ com.uas.alif.activities.MainActivity$9

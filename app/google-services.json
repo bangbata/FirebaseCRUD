@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "144778444044",
+	"firebase_url": "https://uas-firebase-alif-default-rtdb.firebaseio.com/",
+    "project_id": "uas-firebase-alif",
+    "storage_bucket": "uas-firebase-alif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144778444044:android:5618792c99073a56e71d29",
+        "android_client_info": {
+          "package_name": "com.uas.alif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144778444044-qb7a792duj694u41omlacggbi109auq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkjJHZ1s_zqG6WEloZb7bRd_H6W5QlFlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144778444044-qb7a792duj694u41omlacggbi109auq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
